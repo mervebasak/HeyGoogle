@@ -16,4 +16,5 @@ This repository will be about to my Google Asistant adventure. It will contain c
 
 ## Medium Posts
 
-*
+* [Hey Google, Here We Go!](https://medium.com/@mervebasak/hey-google-here-we-go-fc1053c35e70) - Hey Google, Here We Go!(ENG)
+* [Hey Google, Baslıyoruz!](https://medium.com/@mervebasak/hey-google-ba%C5%9Fl%C4%B1yoruz-5e9cb8ca0ba1) - Hey Google, Baslıyoruz!(TR)
